@@ -1,2 +1,2 @@
-*.ino linguist-language = C
-*.py  linguist-language = python
+*.ino linguist-language=C
+*.py  linguist-language=python
